@@ -1,0 +1,21 @@
+,Allied code,Enemy code,CPU interprets this as
+Clear,CL,UK,Let's go there!
+Dangerous,DG,NP,Avoid it.
+Unknown,UK,DG,Neutral.
+Inaccessible,NP,CL,Avoid it.
+Infantry,IF,NK,Slow & weak.
+Cavalry,CL,CL,Fast & weak.
+Tanks,TK,II,Effective against cavalry.
+Anti-tank,NK,IF,Effective against anti-tanks.
+100,I,O,
+200,S,Q,
+300,Y,X,
+400,R,I,
+500,N,P,
+600,P,N,
+700,Q,R,
+800,L,U,
+900,T,Y,
+1000,X,L,
+,,,
+Location ID,Three char code,Different three char code,
