@@ -1,37 +1,37 @@
 ,Allied code,Enemy code,Designer notes
-Clear,5,8,CPU: Let's go there!
-Dangerous,1,6,CPU: Avoid it.
-Unknown,3,1,CPU: Neutral.
-Inaccessible,8,3,CPU: Avoid it.
-Infantry,5,8,Slow & weak.
-Cavalry,7,7,Fast & weak.
-Tanks,8,3,Effective against cavalry.
-Anti-tank,3,1,Effective against anti-tanks.
-100,18,45,
-200,87,83,
-300,34,62,
-400,13,87,
-500,46,14,
-600,82,18,
-700,43,75,
-800,83,21,
-900,54,48,
-1000,17,86,
-Location 1,45,68,
-Location 2,38,17,
-Location 3,81,34,
-Location 4,62,46,
-Location 5,42,78,
-Location 6,85,23,
-Location 7,58,47,
-Location 8,56,56,
-Location 9,16,63,
-Location 10,67,16,
-Location 11,71,85,
-Location 12,74,43,
-Location 13,15,72,
-Location 14,51,61,
-Location 15,52,15,
-Location 16,26,35,
-Friendly,4,2,
-Hostile,2,4,
+Clear,E,H,CPU: Let's go there!
+Dangerous,A,F,CPU: Avoid it.
+Unknown,C,A,CPU: Neutral.
+Inaccessible,H,C,CPU: Avoid it.
+Infantry,E,H,Slow & weak.
+Cavalry,G,G,Fast & weak.
+Tanks,H,C,Effective against cavalry.
+Anti-tank,C,A,Effective against anti-tanks.
+100,AH,DE,
+200,HG,HC,
+300,CD,FB,
+400,AC,HG,
+500,DF,AD,
+600,HB,AH,
+700,DC,GE,
+800,HC,BA,
+900,ED,DH,
+1000,AG,HF,
+Location A,DE,FH,
+Location B,CH,AG,
+Location C,HA,CD,
+Location D,FB,DF,
+Location E,DB,GH,
+Location F,HE,BC,
+Location G,EH,DG,
+Location H,EF,EF,
+Location 9,AF,FC,
+Location A0,FG,AF,
+Location AA,GA,HE,
+Location AB,GD,DC,
+Location AC,AE,GB,
+Location AD,EA,FA,
+Location AE,EB,AE,
+Location AF,BF,CE,
+Friendly,D,B,
+Hostile,B,D,
