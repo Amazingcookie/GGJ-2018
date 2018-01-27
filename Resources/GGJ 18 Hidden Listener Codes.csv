@@ -1,32 +1,32 @@
 ,Allied code,Enemy code,Designer notes
-Clear,5,4,CPU: Let's go there!
+Clear,5,8,CPU: Let's go there!
 Dangerous,1,6,CPU: Avoid it.
 Unknown,3,1,CPU: Neutral.
-Inaccessible,4,4,CPU: Avoid it.
+Inaccessible,8,3,CPU: Avoid it.
 Infantry,5,8,Slow & weak.
 Cavalry,7,7,Fast & weak.
 Tanks,8,3,Effective against cavalry.
 Anti-tank,3,1,Effective against anti-tanks.
 100,18,45,
-200,81,83,
+200,87,83,
 300,34,62,
 400,13,87,
 500,46,14,
 600,82,18,
 700,43,75,
 800,83,21,
-900,52,46,
-1000,17,87,
-Location 1,43,68,
+900,54,48,
+1000,17,86,
+Location 1,45,68,
 Location 2,38,17,
 Location 3,81,34,
 Location 4,62,46,
 Location 5,42,78,
 Location 6,85,23,
-Location 7,58,45,
-Location 8,50,56,
+Location 7,58,47,
+Location 8,56,56,
 Location 9,16,63,
-Location 10,67,14,
+Location 10,67,16,
 Location 11,71,85,
 Location 12,74,43,
 Location 13,15,72,
