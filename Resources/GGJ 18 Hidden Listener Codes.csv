@@ -1,8 +1,8 @@
 ,Allied code,Enemy code,Designer notes
-Clear,E,H,CPU: Let's go there!
-Dangerous,A,F,CPU: Avoid it.
-Unknown,C,A,CPU: Neutral.
-Inaccessible,H,C,CPU: Avoid it.
+Clear,EE,HH,CPU: Let's go there!
+Dangerous,AA,FF,CPU: Avoid it.
+Unknown,CC,AA,CPU: Neutral.
+Inaccessible,HH,CC,CPU: Avoid it.
 Infantry,E,H,Slow & weak.
 Cavalry,G,G,Fast & weak.
 Tanks,H,C,Effective against cavalry.
